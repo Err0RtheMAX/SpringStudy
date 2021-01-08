@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58195c74-6292-4ab2-bee8-b4d262e8496b" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/hello-static.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/hello-template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/hello.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -251,7 +246,7 @@
       <workItem from="1609829120184" duration="5052000" />
       <workItem from="1609896570921" duration="1240000" />
       <workItem from="1609899831899" duration="417000" />
-      <workItem from="1610068913991" duration="10437000" />
+      <workItem from="1610068913991" duration="10477000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1609830136335</created>
